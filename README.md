@@ -13,7 +13,7 @@ Each pixel is replaced by its nearest centroid colour, yielding a reduced **16-c
 ## How to run
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebook/kmeans_image_compression_assignment_funcs.ipynb
+jupyter notebook notebook/kmeans_image_compression.ipynb
 ```
 
 ## Notes
